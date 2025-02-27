@@ -1,0 +1,4 @@
+    access:
+    - kong.log.set_serialize_value("request.body", kong.request.get_raw_body())
+    body_filter:
+    - kong.log.set_serialize_value("response.body", kong.response.get_raw_body())
