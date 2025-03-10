@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------
+Disk /root Percent 
+Name : DEV-Kong Disk Root Usage
+
+100 - ((node_filesystem_avail_bytes{instance="172.19.19.2:9100",job=~".*node-exporter",mountpoint="/",fstype!="rootfs"} * 100) / node_filesystem_size_bytes{instance="172.19.19.2:9100",job=~".*node-exporter",mountpoint="/",fstype!="rootfs"})
+
+------------------------------------------------------------------------------------------------------------------------
+Ram Usage Percent
+Name : DEV-Kong RAM Usage
+
+(1 - (node_memory_MemAvailable_bytes{instance="172.19.19.2:9100", job=~".*node-exporter"} / node_memory_MemTotal_bytes{instance="172.19.19.2:9100", job=~".*node-exporter"})) * 100
+
+------------------------------------------------------------------------------------------------------------------------
+CPU Busy Percent
+Name : DEV-Kong CPU Busy
+
+sum(irate(node_cpu_seconds_total{instance="172.19.19.2:9100",job=~".*node-exporter", mode="idle"}[$__rate_interval])) / scalar(count(count(node_cpu_seconds_total{instance="172.19.19.2:9100",job=~".*node-exporter"}) by (cpu)))
+
+------------------------------------------------------------------------------------------------------------------------
