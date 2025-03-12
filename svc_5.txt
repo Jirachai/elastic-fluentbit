@@ -1,0 +1,94 @@
+101	Y	TRUE	TRUE	Y	N	6	svc_rest_SpeediRevamp	route_rest_SpeediRevamp_Claim	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Claim
+102	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Claim	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Claim
+103	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Claim	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Claim
+104	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Claim	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Claim
+105	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Claim	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Claim
+106	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Claim	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Claim
+110	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Payment	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Payment
+111	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Renew	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Renew
+112	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Renew	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Renew
+113	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Renew	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Renew
+114	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Renew	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Renew
+115	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_Renew	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/Renew
+107	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_serviceFile	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/serviceFile
+108	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_serviceFile	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/serviceFile
+109	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_serviceFile	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/serviceFile
+116	Y	TRUE	TRUE	Y	N			route_rest_SpeediRevamp_serviceRequest	 	http://thd-liberty.th.msig.com:10013/rest/SpeediRevamp/ServiceRequest
+
+
+1	Y	TRUE	TRUE	Y	N	8	svc_rest_MotorService	route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+2	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+3	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+4	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+5	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+6	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+7	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+8	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+9	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+10	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+11	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+12	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+13	Y	TRUE	TRUE	Y	N			route_rest_MotorService	 	http://thd-liberty.th.msig.com:10015/rest/MotorService
+383	Y	TRUE	TRUE	Y	N			route_shopeeApi_motor	 	http://thd-liberty.th.msig.com:10015/shopeeApi/motor/
+384	Y	TRUE	TRUE	Y	N			route_shopeeApi_motor	 	http://thd-liberty.th.msig.com:10015/shopeeApi/motor/
+
+
+385	Y	TRUE	TRUE	Y	N	12	svc_rest_PaTaService	route_rest_PaTaAeonService	 	http://thd-liberty.th.msig.com:10022/rest/PaTaAeonService
+43	Y	TRUE	TRUE	Y	N			route_rest_PaTaService	 	http://thd-liberty.th.msig.com:10022/rest/PaTaService
+386	Y	TRUE	TRUE	Y	N			route_rest_PaTaShopeeService	 	http://thd-liberty.th.msig.com:10022/rest/PaTaShopeeService
+
+
+310	Y	TRUE	TRUE	Y	N	28	svc_rest_Digital	route_agent_service	 	http://thd-mservicept0.th.msig.com:10098/agent/service
+311	Y	TRUE	TRUE	Y	N			route_agent_service	 	http://thd-mservicept0.th.msig.com:10098/agent/service
+344	Y	TRUE	TRUE	Y	N			route_agent_service	 	http://thd-mservicept0.th.msig.com:10098/agent/service
+312	Y	TRUE	TRUE	Y	N			route_caching	 	http://thd-mservicept0.th.msig.com:10098/caching
+313	Y	TRUE	TRUE	Y	N			route_caching	 	http://thd-mservicept0.th.msig.com:10098/caching
+314	Y	TRUE	TRUE	Y	N			route_caching	 	http://thd-mservicept0.th.msig.com:10098/caching
+345	Y	TRUE	TRUE	Y	N			route_campain_service	 	http://thd-mservicept0.th.msig.com:10098/campain/service
+346	Y	TRUE	TRUE	Y	N			route_campain_service	 	http://thd-mservicept0.th.msig.com:10098/campain/service
+315	Y	TRUE	TRUE	Y	N			route_consent_service	 	http://thd-mservicept0.th.msig.com:10098/consent/service
+316	Y	TRUE	TRUE	Y	N			route_ecommerce_service	 	http://thd-mservicept0.th.msig.com:10098/ecommerce/service
+317	Y	TRUE	TRUE	Y	N			route_ecommerce_service	 	http://thd-mservicept0.th.msig.com:10098/ecommerce/service
+318	Y	TRUE	TRUE	Y	N			route_ecommerce_service	 	http://thd-mservicept0.th.msig.com:10098/ecommerce/service
+347	Y	TRUE	TRUE	Y	N			route_ecommerce_service	 	http://thd-mservicept0.th.msig.com:10098/ecommerce/service
+319	Y	TRUE	TRUE	Y	N			route_Mail	 	http://thd-mservicept0.th.msig.com:10098/Mail
+320	Y	TRUE	TRUE	Y	N			route_Mail	 	http://thd-mservicept0.th.msig.com:10098/Mail
+321	Y	TRUE	TRUE	Y	N			route_motor_service	 	http://thd-mservicept0.th.msig.com:10098/motor/service
+322	Y	TRUE	TRUE	Y	N			route_motor_service	 	http://thd-mservicept0.th.msig.com:10098/motor/service
+324	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+325	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+326	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+327	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+328	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+329	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+330	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+331	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+332	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+333	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+334	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+335	Y	TRUE	TRUE	Y	N			route_OCR_service	 	http://thd-mservicept0.th.msig.com:10098/OCR/service
+336	Y	TRUE	TRUE	Y	N			route_OIC_service	 	http://thd-mservicept0.th.msig.com:10098/OIC/service
+337	Y	TRUE	TRUE	Y	N			route_OIC_service	 	http://thd-mservicept0.th.msig.com:10098/OIC/service
+349	Y	TRUE	TRUE	Y	N			route_packageTaNew_service	 	http://thd-mservicept0.th.msig.com:10098/packageTaNew/service
+350	Y	TRUE	TRUE	Y	N			route_packageTaNew_service	 	http://thd-mservicept0.th.msig.com:10098/packageTaNew/service
+351	Y	TRUE	TRUE	Y	N			route_packageTaNew_service	 	http://thd-mservicept0.th.msig.com:10098/packageTaNew/service
+352	Y	TRUE	TRUE	Y	N			route_packageTaNew_service	 	http://thd-mservicept0.th.msig.com:10098/packageTaNew/service
+353	Y	TRUE	TRUE	Y	N			route_packageTaNew_service	 	http://thd-mservicept0.th.msig.com:10098/packageTaNew/service
+354	Y	TRUE	TRUE	Y	N			route_packageTaNew_service	 	http://thd-mservicept0.th.msig.com:10098/packageTaNew/service
+355	Y	TRUE	TRUE	Y	N			route_packageTaNew_service	 	http://thd-mservicept0.th.msig.com:10098/packageTaNew/service
+356	Y	TRUE	TRUE	Y	N			route_packageTaNew_service	 	http://thd-mservicept0.th.msig.com:10098/packageTaNew/service
+357	Y	TRUE	TRUE	Y	N			route_packageTaNew_service	 	http://thd-mservicept0.th.msig.com:10098/packageTaNew/service
+338	Y	TRUE	TRUE	Y	N			route_pata_service	 	http://thd-mservicept0.th.msig.com:10098/pata/service
+339	Y	TRUE	TRUE	Y	N			route_pata_service	 	http://thd-mservicept0.th.msig.com:10098/pata/service
+348	Y	TRUE	TRUE	Y	N			route_payment_service	 	http://thd-mservicept0.th.msig.com:10098/payment/service
+340	Y	TRUE	TRUE	Y	N			route_SMS_service	 	http://thd-mservicept0.th.msig.com:10098/SMS/service
+341	Y	TRUE	TRUE	Y	N			route_SMS_service	 	http://thd-mservicept0.th.msig.com:10098/SMS/service
+342	Y	TRUE	TRUE	Y	N			route_SMS_service	 	http://thd-mservicept0.th.msig.com:10098/SMS/service
+343	Y	TRUE	TRUE	Y	N			route_SMS_service	 	http://thd-mservicept0.th.msig.com:10098/SMS/service
+
+
+358	Y	TRUE	TRUE	Y	N	29	svc_rest_otpservice_sms	route_rest_otpservice	 	http://thd-mservicept0.th.msig.com:10099/rest/otpservice
+359	Y	TRUE	TRUE	Y	N			route_rest_otpservice	 	http://thd-mservicept0.th.msig.com:10099/rest/otpservice
+360	Y	TRUE	TRUE	Y	N			route_rest_otpservice	 	http://thd-mservicept0.th.msig.com:10099/rest/otpservice
+361	Y	TRUE	TRUE	Y	N			route_rest_sms	 	http://thd-mservicept0.th.msig.com:10099/rest/sms
+362	Y	TRUE	TRUE	Y	N			route_rest_sms	 	http://thd-mservicept0.th.msig.com:10099/rest/sms
