@@ -1,0 +1,60 @@
+Policy
+
+create_route "route_rest_convertpdf" "/rest/convertPdf"
+create_route "route_rest_payment_genaral" "/rest/payment/genaral"
+create_route "route_rest_pmiservice" "/rest/PMIService"
+create_route "route_rest_mailing" "/rest/mailing"
+create_route "route_rest_ntl" "/rest/ntl"
+create_route "route_rest_homecare" "/rest/homecare"
+create_route "route_api" "/api"
+create_route "route_msig_genlinkws_jaxrs_genlinkrs" "/MSIG_GenlinkWS/jaxrs/GenlinkRS"
+create_route "route_msig_genlinkws_jaxrs_genlinktars" "/MSIG_GenlinkWS/jaxrs/GenlinkTARS"
+create_route "route_msig_iappweb" "/MSIG_IAppWeb"
+create_route "route_msprinting_service" "/msprinting/service/"
+create_route "route_masterprintfactory_service" "/masterPrintFactory/service"
+
+
+sale
+
+create_route "route_rest_payment_genaral" "/rest/payment/genaral"
+create_route "route_rest_pmiservice" "/rest/PMIService"
+create_route "route_rest_smartmotionservice" "/rest/smartMotionService"
+create_route "route_rest_smartcreditservice" "/rest/smartCreditService"
+create_route "route_msig_genlinkws_jaxrs_genlinkrs" "/MSIG_GenlinkWS/jaxrs/GenlinkRS"
+
+
+Service
+
+create_route "route_rest_convertpdf" "/rest/convertPdf"
+create_route "route_rest_reductpdf" "/rest/reductPdf"
+create_route "route_rest_runninggenerator" "/rest/RunningGenerator"
+create_route "route_rest_emailservice_emailservice" "/rest/EmailService/emailService"
+create_route "route_rest_pmiservice" "/rest/PMIService"
+create_route "route_rest_taxreg" "/rest/TaxReg"
+create_route "route_rest_bizsmart" "/rest/BizSmart"
+create_route "route_rest_otpservice" "/rest/otpservice"
+create_route "route_rest_thaivietjetservice" "/rest/ThaiVietjetService"
+create_route "route_rest_ssquare" "/rest/ssquare"
+create_route "route_rest_sign" "/rest/sign"
+create_route "route_api_pv" "/api/pv/"
+create_route "route_api" "/api"
+create_route "route_clientchecking" "/clientchecking"
+create_route "route_rest_agentservice" "/rest/AgentService"
+create_route "route_rest_buckets" "/rest/buckets"
+create_route "route_msautoprinting_service" "/msautoprinting/service/"
+create_route "route_msig_portalws_jaxrs_attachdoc" "/MSIG_PortalWS/jaxrs/AttachDoc"
+create_route "route_msig_portalws_jaxrs_bringup" "/MSIG_PortalWS/jaxrs/Bringup"
+create_route "route_msig_portalws_jaxrs_casemgmt" "/MSIG_PortalWS/jaxrs/CaseMgmt"
+create_route "route_msig_portalws_jaxrs_clientdoc" "/MSIG_PortalWS/jaxrs/ClientDoc"
+create_route "route_msig_portalws_jaxrs_codedesc" "/MSIG_PortalWS/jaxrs/CodeDesc"
+create_route "route_msig_portalws_jaxrs_doccontrol" "/MSIG_PortalWS/jaxrs/DocControl"
+create_route "route_msig_portalws_jaxrs_mail" "/MSIG_PortalWS/jaxrs/Mail"
+create_route "route_msig_portalws_jaxrs_noti" "/MSIG_PortalWS/jaxrs/Noti"
+create_route "route_msig_portalws_jaxrs_policy" "/MSIG_PortalWS/jaxrs/Policy"
+create_route "route_printingqueue_api_printing" "/printingQueue/api/printing/"
+create_route "route_msig_genlinkws_jaxrs_accountrs" "/MSIG_GenlinkWS/jaxrs/AccountRS"
+create_route "route_msig_genlinkws_jaxrs_genlinkrs" "/MSIG_GenlinkWS/jaxrs/GenlinkRS"
+create_route "route_msig_genlinkws_jaxrs_genlinktars" "/MSIG_GenlinkWS/jaxrs/GenlinkTARS"
+create_route "route_msig_iappweb" "/MSIG_IAppWeb"
+create_route "route_msig_reportws_jaxrs_pdfreport" "/MSIG_ReportWS/jaxrs/PdfReport"
+
